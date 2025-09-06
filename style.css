@@ -1,12 +1,14 @@
-.first-commit {
+.first_commit {
     font-size: larger;
     color: blue;
     font-style: italic;
     font-family:'Courier New', Courier, monospace;
+    display: block;
 
 }
 
-.second-commit {
+.second_commit {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:chartreuse;
+    display: block;
 }
